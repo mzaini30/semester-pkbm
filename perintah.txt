@@ -1,0 +1,1 @@
+Pada folder ./yang-diujikan/, itu masing-masing file yang tidak ada kata "kunci" di dalamnya disalin dengan nama file "[nama file sebelumnya] - pembahasan.[doc / docx tergantung sebelumnya ekstensinya apa]"
